@@ -5,7 +5,7 @@ from asyncio import sleep
 
 @loader.tds
 class rap(loader.Module):
-    strings = {"name": "hityka"}
+    strings = {"name": "kilogi"}
 
     @loader.owner
     async def rapcmd(self, message):
