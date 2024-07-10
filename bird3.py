@@ -16,7 +16,7 @@ hityka pidor"""
         await message.delete()
         await message.client.send_file(
             message.to_id,
-            "https://t.me/c/2064466349/242",
+            "https://telesco.pe/kilogi1337/4",
             voice_note=True,
             reply_to=reply.id if reply else None,
         )
